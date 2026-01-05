@@ -1,0 +1,2 @@
+# PredictiveMaintenanceSystem
+PredictiveMaintenanceSystem for internship on 9th semester Manufacturing Technology
