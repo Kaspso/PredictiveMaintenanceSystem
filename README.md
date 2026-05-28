@@ -1,2 +1,2 @@
 # PredictiveMaintenanceSystem
-PredictiveMaintenanceSystem for internship on 9th semester Manufacturing Technology
+PredictiveMaintenanceSystem on 10th semester Manufacturing Technology
